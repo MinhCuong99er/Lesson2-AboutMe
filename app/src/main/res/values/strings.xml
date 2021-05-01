@@ -6,7 +6,11 @@
         \n My major is Math and Physics. Now I live in Hanoi city, the capital of Vietnam.
         \n \n \n \n \n This is my first time I lived far from my family, so I find it very excited to discover new things.
         \n I’m a great fan of soccer and I always spend my time playing soccer with my friends, at least once a week. 
-        \n I’m a generous and easy-going person, but when it comes to work I’m a competitive perfectionist. </string>
+        \n I’m a generous and easy-going person, but when it comes to work I’m a competitive perfectionist. 
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
 </resources>
 
   
